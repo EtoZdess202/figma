@@ -1,0 +1,13 @@
+.button{
+    border: 1px solid blue;
+    padding: 15px 30px;
+    border-radius: 25px;
+    gap: 10px;
+    background:#5CB0FF ;
+}
+.button1{
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 20px;
+    background:#5CB0FF;
+}
